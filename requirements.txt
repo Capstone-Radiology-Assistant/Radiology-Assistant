@@ -1,0 +1,7 @@
+streamlit
+torch
+PIL
+numpy
+os
+cv2
+transformers
